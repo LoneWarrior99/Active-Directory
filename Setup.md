@@ -74,15 +74,11 @@ Targets: Windows Machine, Windows Server
 - On target pc, settings > systems properties > advanced > Domain 
 
 
-## Objective:
+### Target Machine
 
-- Use Kali linux to perform brute force attack
+- Enable RDP for created users
+  
+![image](https://github.com/user-attachments/assets/43af2724-4e92-400d-8ede-5169c547b943)
 
-- Query activity using splunk
-
-- Setup and install ART to run atomic test
-
-
-### Set Kali Linux - 192.168.10.250
 
 
